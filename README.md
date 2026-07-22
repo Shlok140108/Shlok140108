@@ -7,10 +7,6 @@ Machine learning explorer working mostly in Python.
 - Ask me about: Python, C++, ML basics , Django
 - LinkedIn: https://www.linkedin.com/in/shlok-gupta-106879291/
 
-## Featured Skills
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,numpy,pandas,supabase,cpp,git,github)](https://skillicons.dev)
-
 ## Featured Projects
 
 ### Jyotisha
