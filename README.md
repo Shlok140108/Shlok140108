@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Shlok Gupta
 
-<!--
-**Shlok140108/Shlok140108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine learning explorer working mostly in Python.
 
-Here are some ideas to get you started:
+- Based in Pune
+- Currently exploring: machine learning and data analysis with NumPy/Pandas
+- Ask me about: Python, C++, ML basics
+- LinkedIn: https://www.linkedin.com/in/shlok-gupta-106879291/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Jyotisha
+An ancient-astronomy-formula-based observatory and simulator. Calculates sunrise/sunset times based on user location, and computes planetary angles, positions, and speeds using traditional astronomical formulas — while also explaining the math behind them. Built with a Supabase backend handling login/signup authentication.
+Repo: [add link]
+
+### Spaceship Titanic (Kaggle)
+An ML pipeline built on Kaggle's Spaceship Titanic competition dataset — covers data cleaning, feature engineering, and classification to predict which passengers were transported to an alternate dimension.
+Repo: [add link]
+
+### Titanic Survival Prediction (Kaggle)
+An ML pipeline built on Kaggle's classic Titanic dataset — covers preprocessing and classification models to predict passenger survival.
+Repo: [add link]
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+
+## GitHub Stats
+
+![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shlok140108&show_icons=true&theme=default)
